@@ -3,3 +3,22 @@
 ################################################################################
 
 /TabNavigation_6.3/.vs/TabNavigation/v15
+/TabNavigation_6.3/TabNavigation/TabNavigation/bin/Debug/netstandard1.4
+/TabNavigation_6.3/TabNavigation/TabNavigation/obj
+/TabNavigation_6.3/TabNavigation/TabNavigation.Android/obj
+/TabNavigation_6.3/TabNavigation/TabNavigation.Android/bin/Debug
+/TabNavigation_6.3/TabNavigation/TabNavigation.Android/TabNavigation.Android.csproj.user
+/TabNavigation_6.3/TabNavigation/TabNavigation.Android/TabNavigation.Android.csproj.bak
+/TabNavigation_6.3/TabNavigation/TabNavigation.iOS/obj
+/TabNavigation_6.3/TabNavigation/TabNavigation.UWP/obj
+/TabNavigation_7.0/.vs/TabNavigation/v15
+/TabNavigation_7.0/TabNavigation/TabNavigation/bin/Debug/netstandard2.0
+/TabNavigation_7.0/TabNavigation/TabNavigation/obj
+/TabNavigation_7.0/TabNavigation/TabNavigation.Android/bin/Debug
+/TabNavigation_7.0/TabNavigation/TabNavigation.Android/obj
+/TabNavigation_7.0/TabNavigation/TabNavigation.Android/TabNavigation.Android.csproj.user
+/TabNavigation_7.0/TabNavigation/TabNavigation.Android/TabNavigation.Android.csproj.bak
+/TabNavigation_7.0/TabNavigation/TabNavigation.iOS/bin/iPhoneSimulator/Debug
+/TabNavigation_7.0/TabNavigation/TabNavigation.iOS/obj
+/TabNavigation_7.0/TabNavigation/TabNavigation.iOS/TabNavigation.iOS.csproj.user
+/TabNavigation_7.0/TabNavigation/TabNavigation.UWP/obj
